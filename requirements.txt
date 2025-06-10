@@ -1,0 +1,13 @@
+asammdf
+pandas
+numpy
+dash
+dash-leaflet
+geopy
+scikit-learn
+geopandas
+shapely
+folium
+# tkinter is usually part of the Python standard library
+# For a specific version, you might add:
+# tkinter # Or the specific package name if it's distributed separately in some environments
